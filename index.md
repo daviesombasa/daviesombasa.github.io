@@ -1,4 +1,5 @@
 ## Follow this journey
+<hr>
 ## OSINT Tools - GHunt
 <!-- ## Welcome to GitHub Pages
 
